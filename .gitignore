@@ -1,0 +1,16 @@
+# Maven
+target/
+.mvn/wrapper/maven-wrapper.jar
+
+# IDEA
+*.iml
+*.ipr
+*.iws
+.idea
+
+# Misc
+*.log
+.DS_Store
+Thumbs.db
+
+**/*flattened-pom.xml

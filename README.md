@@ -1,4 +1,4 @@
-# ICAO classes and utilities for Java and Kotlin
+# ICAO reusable classes and utilities for Java and Kotlin
 
 ## Build
 

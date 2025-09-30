@@ -1,4 +1,4 @@
-# ICAO Route classes and utilties for Java and Kotlin
+# ICAO Route classes and utilities for Java and Kotlin
 
 ## Build
 

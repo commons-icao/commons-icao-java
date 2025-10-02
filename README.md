@@ -1,4 +1,4 @@
-# ICAO Commons
+# ICAO Commons for Java and Kotlin
 
 Reusable classes and utilities for working with ICAO-related standards and formats.
 

@@ -1,6 +1,6 @@
 # Icarus
 
-ICAO reusable classes and utilities for Java and Kotlin
+Icarus provides reusable ICAO-related classes and utilities for Java and Kotlin.
 
 ## License
 

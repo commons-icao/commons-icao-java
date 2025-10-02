@@ -1,6 +1,6 @@
-# ICAO Utils
+# ICAO Commons
 
-A collection of reusable Java and Kotlin utilities for working with ICAO-related standards and formats.
+Reusable classes and utilities for working with ICAO-related standards and formats.
 
 ## License
 

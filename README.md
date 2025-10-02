@@ -1,10 +1,6 @@
-# ICAO reusable classes and utilities for Java and Kotlin
+# Icarus
 
-## Build
-
-Update version:
-
-    mvn versions:set -DnewVersion=1.2.3
+ICAO reusable classes and utilities for Java and Kotlin
 
 ## License
 
